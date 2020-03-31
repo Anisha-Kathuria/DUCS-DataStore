@@ -5,8 +5,8 @@ Node.js webApp using mongoDb
 
 "dependencies":
 
-    "body-parser": "^1.19.0",<br>
-    "connect-flash": "^0.1.1",<br>
+    "body-parser": "^1.19.0",
+    "connect-flash": "^0.1.1",
     "ejs": "^3.0.1",
     "express": "^4.17.1",
     "express-sanitizer": "^1.0.5",
