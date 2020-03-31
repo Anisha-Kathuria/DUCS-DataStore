@@ -3,9 +3,10 @@ Node.js webApp using mongoDb
 
 ## Install following node modules
 
-"dependencies": {
-    "body-parser": "^1.19.0",
-    "connect-flash": "^0.1.1",
+"dependencies":
+
+    "body-parser": "^1.19.0",<br>
+    "connect-flash": "^0.1.1",<br>
     "ejs": "^3.0.1",
     "express": "^4.17.1",
     "express-sanitizer": "^1.0.5",
@@ -18,4 +19,4 @@ Node.js webApp using mongoDb
     "passport": "^0.4.1",
     "passport-local": "^1.0.0",
     "passport-local-mongoose": "^6.0.1"
-  }
+  
