@@ -1,6 +1,6 @@
 # DUCS-DataStore
 Node.js webApp using mongoDb. 
-Check out the webApp [here](#https://ducs-datastore.herokuapp.com/)
+Check out the webApp [here](https://ducs-datastore.herokuapp.com)
 
 ## Install following node modules
 
