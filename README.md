@@ -28,3 +28,25 @@ To run this server into VSCode, proceed as follows:
 5. Run **npm install**.
 6. Fill .env.
 7. Run **node app.js**.
+
+## Database
+USER TABLE:
+ username       | password          | isAdmin
+ ------------- |:-------------:| -----
+ String | String | Boolean 
+ 
+SEMESTER TABLE:
+ sem       | SUBJECT  
+ ------------- | -----
+ String | Object ID(SUBJECT ENTITY)   
+ 
+SUBJECT TABLE:
+ name       | teacher  | code       | POST  
+ ------------- | :-------------:| :-------------:| -----
+ String | String | String | Object ID(POST ENTITY)  
+  
+POST TABLE:
+ title       | content  | postdate       | AUTHOR    |  files  
+ ------------- | :-------------:|:-------------:| :-------------:| -----
+ String | String | Date | Object ID(USER ENTITY)  | Object ID (GridFs) 
+ 
