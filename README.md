@@ -6,7 +6,8 @@ Datastore to access study material for the students of Department of Computer Sc
 
 Check out the webApp [here](https://ducs-datastore.herokuapp.com)
 
-## Built With
+## Getting Started
+### Built with
 * Html
 * CSS
 * Javascript
